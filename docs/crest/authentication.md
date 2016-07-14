@@ -76,7 +76,7 @@ Allows an application to read your character's research information.
 Allows an application to read your character's skills.
 
 ### characterWalletRead
-Allows an applicatin to read your character's wallet (ambiguous on transactions or journal)
+Allows an application to read your character's wallet.
 
 ## Using your access token
 Once you have a valid access token from the SSO, you can make calls to authenticated CREST by adding an Authorization header and using the auth'd crest endpoint.
